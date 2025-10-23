@@ -11,7 +11,7 @@
 ## Collaborators
 
 |박진하(팀장)|주서영(팀원)|
-|[Git](https://github.com/202010777)|[Git](https://github.com/standyoung)|
+|[박진하 Git](https://github.com/202010777)|[주서영 Git](https://github.com/standyoung)|
 
 ## Service Architecture
 - Frontend Tech Stack 🛠 박진하
